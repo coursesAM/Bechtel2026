@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png" height="80"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bechtel_logo.svg/320px-Bechtel_logo.svg.png" height="60"/>
+  "<img width="312" height="296" alt="image" src="https://github.com/user-attachments/assets/e2523982-5a50-46cb-ad30-bc75a7064cae" />
 </p>
 
 <p align="left">
