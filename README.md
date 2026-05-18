@@ -20,7 +20,7 @@
 |------|-------|----------|
 | Week 1 — Foundations | Tue 19 May – Fri 22 May | Bechtel GGN Office, Gurugram · 9:00 AM – 1:00 PM |
 | Week 2 — Deep Learning | Mon 25 May – Fri 29 May | Bechtel GGN Office, Gurugram · 9:00 AM – 1:00 PM |
-| Week 3 — Applications and Projects | Mon 1 Jun – Fri 5 Jun | Room LH212, Lecture Hall Complex, IIT Delhi · 9:30 AM – 5:15 PM |
+| Week 3 — Advanced Topics and Projects | Mon 1 Jun – Fri 5 Jun | Room LH212, Lecture Hall Complex, IIT Delhi · 9:30 AM – 5:15 PM |
 
 ---
 
