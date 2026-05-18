@@ -24,12 +24,6 @@
 
 ---
 
-## Reference Textbook
-
-**Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow** (3rd ed.) — Aurélien Géron &nbsp;·&nbsp; [Companion GitHub repo](https://github.com/ageron/handson-ml3)
-
----
-
 ## Table of Contents
 
 - [Week 1 — Foundations](#week-1--foundations)
