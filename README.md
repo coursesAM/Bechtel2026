@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  <b>Instructor:</b> Prof. Rajdip Nayek, Department of Applied Mechanics, IIT Delhi <br>
+  <b>Organizer:</b> Prof. Rajdip Nayek, Department of Applied Mechanics, IIT Delhi <br>
   <b>Dates:</b> 19 May – 5 June 2026 &nbsp;|&nbsp; <b>Total hours:</b> ~45 contact hours across 12 instructional days <br>
   <b>Audience:</b> Engineers and project professionals at Bechtel with no prior ML background
 </p>
@@ -49,11 +49,6 @@
 | L5 | Fri, 22 May | Decision Trees and Model Evaluation | [PDF](#) | — |
 | L6 | Fri, 22 May | Ensemble Methods: Random Forest, Boosting, and XGBoost | [PDF](#) | — |
 
-**Notes:**
-- Wed 20 May has two back-to-back lectures (L2 + L3) with no tutorial. Participants consolidate at home.
-- T2 is a combined notebook covering data exploration (L2/L3) and modelling (L4) in clearly labelled parts.
-- Fri 22 May has two back-to-back lectures (L5 + L6) with no tutorial.
-
 ---
 
 ## Week 2 — Deep Learning
@@ -71,11 +66,6 @@
 | L10 | Thu, 28 May | Attention Mechanisms and Transformers: Intuition and Architecture *(visiting instructor)* | [PDF](#) | — |
 | T5 | Fri, 29 May | Tutorial: Exploring Attention in a Pre-trained Transformer | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
 | L11 | Fri, 29 May | LLMs: Foundation Models, Chains, and Document Q&A *(visiting instructor)* | [PDF](#) | — |
-
-**Notes:**
-- Thu 28 May has two back-to-back lectures (L9 + L10). L10 is by a visiting instructor. No tutorial that day.
-- On Fri 29 May, Block A is T5 (the follow-up to Thursday's transformer content) and Block B is L11 (a new lecture by the visiting instructor).
-- All deep learning tutorials use PyTorch. TensorFlow is not used in this programme.
 
 ---
 
@@ -103,7 +93,7 @@
 |---|------|-------|-------|:------:|:--------:|
 | L12 | Mon, 1 Jun | A | CNNs: Architecture and Image Applications | [PDF](#) | — |
 | T6 | Mon, 1 Jun | B | Tutorial: Image Classification on the PPE Dataset | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
-| L13 | Mon, 1 Jun | C | Computer Vision and YOLO: Object Detection Architecture | [PDF](#) | — |
+| L13 | Mon, 1 Jun | C | Computer Vision: Object Detection Architecture | [PDF](#) | — |
 | T7 | Mon, 1 Jun | D | Tutorial: Object Detection on Construction Site Images | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
 | L14 | Tue, 2 Jun | A | Anomaly Detection: Statistical and ML-based Approaches | [PDF](#) | — |
 | T8 | Tue, 2 Jun | B | Tutorial: Sensor Anomaly Detection on the NASA Dataset | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
@@ -117,11 +107,6 @@
 | — | Fri, 5 Jun | C | MCQ-based written assessment | — | — |
 | — | Fri, 5 Jun | D | Capstone showcase and certificate award | — | — |
 
-**Notes:**
-- L12/T6 (CNNs) and L13/T7 (YOLO) are paired within the same day. Both use the PPE Detection Dataset.
-- L14/T8 (Anomaly Detection) and L15/T10 (LSTMs) are paired within the same day. Both use the NASA CMAPS Turbofan dataset.
-- L17/T11 (Agentic AI) is grounded in a Bechtel use case: autonomous document review and project risk flagging.
-- Fri 5 Jun has no new instruction. Block C is the MCQ test; Block D is the capstone ceremony with certificate award.
 
 ---
 
