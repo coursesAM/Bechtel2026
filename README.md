@@ -1,4 +1,4 @@
-# AI/ML Training Programme — IIT Delhi x Bechtel
+# AI/ML Foundations and Applied Practice — IIT Delhi x Bechtel
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png" height="80"/>
