@@ -133,7 +133,3 @@ All datasets are publicly available and load automatically inside each Colab not
 
 ---
 
-<p align="center">
-  Department of Applied Mechanics &nbsp;·&nbsp; Indian Institute of Technology Delhi <br>
-  <a href="https://sites.google.com/view/rajdip-nayek/">Prof. Rajdip Nayek</a>
-</p>
