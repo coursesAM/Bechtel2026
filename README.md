@@ -1,14 +1,14 @@
 # AI/ML Training Programme — IIT Delhi x Bechtel
 
-<p align="center">
+<p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png" height="80"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bechtel_logo.svg/320px-Bechtel_logo.svg.png" height="60"/>
 </p>
 
-<p align="center">
-  <b>Instructor:</b> <a href="https://sites.google.com/view/rajdip-nayek/">Prof. Rajdip Nayek</a>, Department of Applied Mechanics, IIT Delhi <br>
-  <b>Dates:</b> 19 May – 5 June 2026 &nbsp;|&nbsp; <b>Total hours:</b> ~46.5 contact hours across 12 instructional days <br>
+<p align="left">
+  <b>Instructor:</b> Prof. Rajdip Nayek, Department of Applied Mechanics, IIT Delhi <br>
+  <b>Dates:</b> 19 May – 5 June 2026 &nbsp;|&nbsp; <b>Total hours:</b> ~45 contact hours across 12 instructional days <br>
   <b>Audience:</b> Engineers and project professionals at Bechtel with no prior ML background
 </p>
 
