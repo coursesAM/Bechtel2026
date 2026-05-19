@@ -41,7 +41,7 @@
 | # | Date | Topic | Slides | Notebook |
 |---|------|-------|:------:|:--------:|
 | L1 | Tue, 19 May | Intro to AI/ML: Landscape, Terminology, and Why It Matters for EPC | [PDF](Lectures/L1-AI_ML_Bechtel.pdf) | — |
-| T1 | Tue, 19 May | Tutorial: Python Crash Course — Colab setup, variables, and reading code | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
+| T1 | Tue, 19 May | Tutorial: ML Workflow — Colab setup, variables, and reading code | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17xe2YDAQfpAumFrdjjL_j1XdgZYuwsxX?usp=sharing) |
 | L2 | Wed, 20 May | Understanding Data: Features, Labels, and How to Read a Dataset | [PDF](#) | — |
 | L3 | Wed, 20 May | Data Preparation: Cleaning, Scaling, and Encoding | [PDF](#) | — |
 | L4 | Thu, 21 May | Linear and Logistic Regression | [PDF](#) | — |
