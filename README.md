@@ -42,8 +42,8 @@
 |---|------|-------|:------:|:--------:|
 | L1 | Tue, 19 May | Intro to AI/ML: Landscape, Terminology, and Why It Matters for EPC | [PDF](Lectures/L1-AI_ML_Bechtel.pdf) | — |
 | T1 | Tue, 19 May | Tutorial: ML Workflow — Colab setup, variables, and reading code | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17xe2YDAQfpAumFrdjjL_j1XdgZYuwsxX?usp=sharing) |
-| L2 | Wed, 20 May | Understanding Data: Features, Labels, and How to Read a Dataset | [PDF](#) | — |
-| L3 | Wed, 20 May | Data Preparation: Cleaning, Scaling, and Encoding | [PDF](#) | — |
+| L2 | Wed, 20 May | Understanding Data: How to Read and Inspect a Dataset | [PDF](Lectures/L2_Bad_data_Intro.pdf) | — |
+| T2 | Wed, 20 May | Data Preparation: Cleaning, Scaling, and Encoding | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wtVTdO-OlFpiCgl2rtwLWemIgT7TP9QV?usp=sharing) | — |
 | L4 | Thu, 21 May | Linear and Logistic Regression | [PDF](#) | — |
 | T2 | Thu, 21 May | Tutorial: Regression and Classification on NYC Infrastructure Data | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
 | L5 | Fri, 22 May | Decision Trees and Model Evaluation | [PDF](#) | — |
