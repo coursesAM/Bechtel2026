@@ -45,7 +45,7 @@
 | L2 | Wed, 20 May | Understanding Data: How to Read and Inspect a Dataset | [PDF](Lectures/L2_Bad_data_Intro.pdf) | — |
 | T2 | Wed, 20 May | Data Preparation: Cleaning, Scaling, and Encoding | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wtVTdO-OlFpiCgl2rtwLWemIgT7TP9QV?usp=sharing) |
 | L4 | Thu, 21 May | Linear and Logistic Regression | [PDF](#) | — |
-| T2 | Thu, 21 May | Tutorial: Regression and Classification on NYC Infrastructure Data | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
+| T2 | Thu, 21 May | Tutorial: Linear Regression and Classification | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11fviZnZIW_srr9pcPqshC74b2DChMGsO?usp=sharing) |
 | L5 | Fri, 22 May | Decision Trees and Model Evaluation | [PDF](#) | — |
 | L6 | Fri, 22 May | Ensemble Methods: Random Forest, Boosting, and XGBoost | [PDF](#) | — |
 
