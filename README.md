@@ -46,7 +46,7 @@
 | T2 | Wed, 20 May | Data Preparation: Cleaning, Scaling, and Encoding | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wtVTdO-OlFpiCgl2rtwLWemIgT7TP9QV?usp=sharing) |
 | L3 | Thu, 21 May | Linear and Logistic Regression | [LinReg PDF](Lectures/L3_linear.pdf) | [LogReg PDF](Lectures/L4_logit.pdf) |
 | T3 | Thu, 21 May | Tutorial: Linear Regression and Classification | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11fviZnZIW_srr9pcPqshC74b2DChMGsO?usp=sharing) |
-| L4 | Fri, 22 May | Decision Trees and Random Forest | [DecisionTree_PDF](Lectures/L5_DT.pdf) | [EnsembleMethods_PDF](Lectures/L5_Bagging.pdf) |
+| L4 | Fri, 22 May | Decision Trees and Random Forest | [DecisionTree_PDF](Lectures/L5_DT.pdf) | [EnsembleMethods_PDF](Lectures/L5_Bagging.pdf) <br> [RandomForest_PDF](Lectures/L6_RF.pdf) |
 | T4 | Fri, 22 May | Decision Trees Tutorial |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WtbMxLiHt8e7b4z7IByRJ7gW8v6dXi98?usp=sharing)  |
 
 ---
