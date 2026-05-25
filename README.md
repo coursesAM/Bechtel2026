@@ -57,15 +57,15 @@
 
 | # | Date | Topic | Slides | Notebook |
 |---|------|-------|:------:|:--------:|
-| L7 | Mon, 25 May | ANNs: Architecture and Backpropagation | [ANN_PDF](Lectures/L7_ANN.pdf) | — |
-| T3 | Mon, 25 May | Tutorial: Building Your First Neural Network with PyTorch | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([#](https://colab.research.google.com/drive/1EO6QaC8kuGW5QVit_ZMTRLpbRUIhISm8?usp=sharing)) |
-| L8 | Tue, 26 May | CNNs for Images: Architecture | [PDF](#) | — |
-| T4 | Tue, 26 May | CNN Tutorial using PyTorch | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
+| L5 | Mon, 25 May | ANNs: Architecture and Backpropagation | [ANN_PDF](Lectures/L7_ANN.pdf) | — |
+| T5 | Mon, 25 May | Tutorial: Building Your First Neural Network with PyTorch | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([#](https://colab.research.google.com/drive/1EO6QaC8kuGW5QVit_ZMTRLpbRUIhISm8?usp=sharing)) |
+| L6 | Tue, 26 May | CNNs for Images: Architecture | [PDF](#) | — |
+| T6 | Tue, 26 May | CNN Tutorial using PyTorch | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
 | — | Wed, 27 May | **National Holiday — No Class** | — | — |
-| L9 | Thu, 28 May | Sequence Modelling: RNNs and LSTMs for Time-Series | [PDF](#) | — |
-| L10 | Thu, 28 May | Attention Mechanisms and Transformers: Intuition and Architecture *(visiting instructor)* | [PDF](#) | — |
-| T5 | Fri, 29 May | Tutorial: Exploring Attention in a Pre-trained Transformer | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
-| L11 | Fri, 29 May | LLMs: Foundation Models, Chains, and Document Q&A *(visiting instructor)* | [PDF](#) | — |
+| L7 | Thu, 28 May | Sequence Modelling: RNNs and LSTMs for Time-Series | [PDF](#) | — |
+| L8 | Thu, 28 May | Attention Mechanisms and Transformers: Intuition and Architecture *(visiting instructor)* | [PDF](#) | — |
+| T7 | Fri, 29 May | Tutorial: Exploring Attention in a Pre-trained Transformer | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
+| L9 | Fri, 29 May | LLMs: Foundation Models, Chains, and Document Q&A *(visiting instructor)* | [PDF](#) | — |
 
 ---
 
@@ -91,18 +91,18 @@
 
 | # | Date | Block | Topic | Slides | Notebook |
 |---|------|-------|-------|:------:|:--------:|
-| L12 | Mon, 1 Jun | A | CNNs: Architecture and Image Applications | [PDF](#) | — |
-| T6 | Mon, 1 Jun | B | Tutorial: Image Classification on the PPE Dataset | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
-| L13 | Mon, 1 Jun | C | Computer Vision: Object Detection Architecture | [PDF](#) | — |
-| T7 | Mon, 1 Jun | D | Tutorial: Object Detection on Construction Site Images | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
-| L14 | Tue, 2 Jun | A | Anomaly Detection: Statistical and ML-based Approaches | [PDF](#) | — |
-| T8 | Tue, 2 Jun | B | Tutorial: Sensor Anomaly Detection on the NASA Dataset | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
-| L15 | Tue, 2 Jun | C | RNNs and LSTMs for Time-Series Modelling | [PDF](#) | — |
-| T10 | Tue, 2 Jun | D | Tutorial: Equipment Failure Prediction with NASA Turbofan | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
-| L16 | Wed, 3 Jun | A | End-to-end ML Workflow | [PDF](#) | — |
-| T9 | Wed, 3 Jun | B | Tutorial: End-to-end ML Workflow with AI Assistance | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
-| L17 | Wed, 3 Jun | C | Agentic AI: Introduction | [PDF](#) | — |
-| T11 | Wed, 3 Jun | D | Tutorial: Build an AI Engineering Assistant | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
+| L10 | Mon, 1 Jun | A | CNNs: Architecture and Image Applications | [PDF](#) | — |
+| T8 | Mon, 1 Jun | B | Tutorial: Image Classification on the PPE Dataset | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
+| L11 | Mon, 1 Jun | C | Computer Vision: Object Detection Architecture | [PDF](#) | — |
+| T9 | Mon, 1 Jun | D | Tutorial: Object Detection on Construction Site Images | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
+| L11 | Tue, 2 Jun | A | Anomaly Detection: Statistical and ML-based Approaches | [PDF](#) | — |
+| T10 | Tue, 2 Jun | B | Tutorial: Sensor Anomaly Detection on the NASA Dataset | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
+| L12 | Tue, 2 Jun | C | RNNs and LSTMs for Time-Series Modelling | [PDF](#) | — |
+| T11 | Tue, 2 Jun | D | Tutorial: Equipment Failure Prediction with NASA Turbofan | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
+| L13 | Wed, 3 Jun | A | End-to-end ML Workflow | [PDF](#) | — |
+| T12 | Wed, 3 Jun | B | Tutorial: End-to-end ML Workflow with AI Assistance | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
+| L14 | Wed, 3 Jun | C | Agentic AI: Introduction | [PDF](#) | — |
+| T13 | Wed, 3 Jun | D | Tutorial: Build an AI Engineering Assistant | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
 | — | Fri, 5 Jun | A + B | Mini-project presentations | — | — |
 | — | Fri, 5 Jun | C | MCQ-based written assessment | — | — |
 | — | Fri, 5 Jun | D | Capstone showcase and certificate award | — | — |
