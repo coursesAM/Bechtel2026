@@ -57,7 +57,7 @@
 
 | # | Date | Topic | Slides | Notebook |
 |---|------|-------|:------:|:--------:|
-| L5 | Mon, 25 May | ANNs: Architecture and Backpropagation | [ANN_PDF](Lectures/L7_ANN.pdf) | — |
+| L5 | Mon, 25 May | ANNs: Architecture and Backpropagation | [ANN_PDF](Lectures/L7_ANN.pdf) | [ANNOptim1_PDF](Lectures/L7opt1.pdf) <br> [ANNOptim2_PDF](Lectures/L7opt2.pdf)|
 | T5 | Mon, 25 May | Tutorial: Building Your First Neural Network with PyTorch | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EO6QaC8kuGW5QVit_ZMTRLpbRUIhISm8?usp=sharing) |
 | L6 | Tue, 26 May | CNNs for Images: Architecture | [PDF](#) | — |
 | T6 | Tue, 26 May | CNN Tutorial using PyTorch | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
