@@ -57,10 +57,10 @@
 
 | # | Date | Topic | Slides | Notebook |
 |---|------|-------|:------:|:--------:|
-| L7 | Mon, 25 May | ANNs: Architecture and Backpropagation | [PDF](#) | — |
-| T3 | Mon, 25 May | Tutorial: Building Your First Neural Network with PyTorch | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
-| L8 | Tue, 26 May | Training Deep Networks: Optimisation, Regularisation, and Batch Norm | [PDF](#) | — |
-| T4 | Tue, 26 May | Tutorial: Training and Debugging a Deep Neural Network | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
+| L7 | Mon, 25 May | ANNs: Architecture and Backpropagation | [PDF](Lectures/L7_ANN.pdf) | — |
+| T3 | Mon, 25 May | Tutorial: Building Your First Neural Network with PyTorch | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([#](https://colab.research.google.com/drive/1EO6QaC8kuGW5QVit_ZMTRLpbRUIhISm8?usp=sharing)) |
+| L8 | Tue, 26 May | CNNs for Images: Architecture | [PDF](#) | — |
+| T4 | Tue, 26 May | CNN Tutorial using PyTorch | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
 | — | Wed, 27 May | **National Holiday — No Class** | — | — |
 | L9 | Thu, 28 May | Sequence Modelling: RNNs and LSTMs for Time-Series | [PDF](#) | — |
 | L10 | Thu, 28 May | Attention Mechanisms and Transformers: Intuition and Architecture *(visiting instructor)* | [PDF](#) | — |
