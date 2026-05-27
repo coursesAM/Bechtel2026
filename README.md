@@ -98,9 +98,8 @@
 | L11 | Tue, 2 Jun | A | Transformers Recap | [PDF](#) | — |
 | L12 | Tue, 2 Jun | B + C | Introduction to LLMs, Prompt Engg, RAG | [PDF](#) | — |
 | T10 | Tue, 2 Jun | B | Tutorial: RAG Implementation | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
-| T11 | Tue, 2 Jun | D | Tutorial: Equipment Failure Prediction with NASA Turbofan | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
 | L13 | Wed, 3 Jun | A + B | Introduction to Agentic AI: Foundations, LLM-RAGs, VectorDataBase, Tool Use | [PDF](#) | — |
-| T12 | Wed, 3 Jun | D | Tutorial: Build an AI Engineering Assistant | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
+| T11 | Wed, 3 Jun | D | Tutorial: Build an AI Engineering Assistant | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
 | — | Fri, 5 Jun | A + B | Mini-project presentations | — | — |
 | — | Fri, 5 Jun | C | MCQ-based written assessment | — | — |
 | — | Fri, 5 Jun | D | Capstone showcase and certificate award | — | — |
