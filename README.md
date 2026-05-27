@@ -107,18 +107,6 @@
 
 ---
 
-## Datasets
-
-All datasets are publicly available and load automatically inside each Colab notebook — no manual downloads needed.
-
-| Dataset | Used in | Link |
-|---------|---------|------|
-| NYC Open Data: Capital Projects | T2 | [data.cityofnewyork.us](https://data.cityofnewyork.us/d/rukc-mmqu) |
-| PPE Detection Dataset (Kaggle) | T6, T7 | [kaggle.com](https://www.kaggle.com/datasets/ketakichalke/ppe-kit-detection-construction-site-workers) |
-| NASA CMAPS Turbofan (Kaggle) | T8, T10 | [kaggle.com](https://www.kaggle.com/datasets/behrad3d/nasa-cmaps) |
-| Hugging Face model hub | T5, T11 | Fetched at runtime — no download required |
-
----
 
 ## How to Use the Colab Notebooks
 
