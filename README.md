@@ -63,9 +63,9 @@
 | T6 | Tue, 26 May | CNN Tutorial using PyTorch | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1L3_FyTh6z_KO2DYRSSk2sd4sz_YxpifR?usp=sharing) |
 | — | Wed, 27 May | **National Holiday — No Class** | — | — |
 | L7 | Thu, 28 May | Sequence Modelling: RNNs and LSTMs for Time-Series | [PDF](#) | — |
-| L8 | Thu, 28 May | Attention Mechanisms and Transformers: Intuition and Architecture *(visiting instructor)* | [PDF](#) | — |
+| L8 | Thu, 28 May | Attention Mechanisms and Transformers: Intuition and Architecture  | [PDF](#) | — |
 | T7 | Fri, 29 May | Tutorial: Exploring Attention in a Pre-trained Transformer | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
-| L9 | Fri, 29 May | LLMs: Foundation Models, Chains, and Document Q&A *(visiting instructor)* | [PDF](#) | — |
+| L9 | Fri, 29 May | LLMs: Foundation Models | [PDF](#) | — |
 
 ---
 
