@@ -63,9 +63,9 @@
 | T6 | Tue, 26 May | CNN Tutorial using PyTorch | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1L3_FyTh6z_KO2DYRSSk2sd4sz_YxpifR?usp=sharing) |
 | — | Wed, 27 May | **National Holiday — No Class** | — | — |
 | L7 | Thu, 28 May | Sequence Modelling: RNNs and LSTMs for Time-Series | [PDF](#) | — |
-| L8 | Thu, 28 May | Attention Mechanisms and Transformers: Intuition and Architecture  | [PDF](#) | — |
-| T7 | Fri, 29 May | Tutorial: Exploring Attention in a Pre-trained Transformer | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
-| L9 | Fri, 29 May | LLMs: Foundation Models | [PDF](#) | — |
+| T7 | Thu, 28 May | Tutorial: RNNs in PyTorch | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ArPqjYnt2nNONJvIOjUw2NztWJVxFEg6?usp=sharing) |
+| L8 | Fri, 29 May | Attention Mechanisms, Transformers, Foundation models: Intuition and Architecture  | [PDF](#) | — |
+| T8 | Fri, 29 May | Tutorial: Exploring Attention in a Pre-trained Transformer | — |  |
 
 ---
 
@@ -91,15 +91,15 @@
 
 | # | Date | Block | Topic | Slides | Notebook |
 |---|------|-------|-------|:------:|:--------:|
-| L10 | Mon, 1 Jun | A | CNNs: Architecture and Image Applications | [PDF](#) | — |
-| T8 | Mon, 1 Jun | B | Tutorial: Image Classification on the PPE Dataset | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
-| L11 | Mon, 1 Jun | C | Computer Vision: Object Detection Architecture | [PDF](#) | — |
-| T9 | Mon, 1 Jun | D | Tutorial: Object Detection on Construction Site Images | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
+| L9 | Mon, 1 Jun | A | CNNs: Architecture and Image Applications | [PDF](#) | — |
+| T9 | Mon, 1 Jun | B | Tutorial: Image Classification on the PPE Dataset | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
+| L10 | Mon, 1 Jun | C | Computer Vision: Object Detection Architecture | [PDF](#) | — |
+| T10 | Mon, 1 Jun | D | Tutorial: Object Detection on Construction Site Images | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
 | L11 | Tue, 2 Jun | A | Transformers Recap | [PDF](#) | — |
 | L12 | Tue, 2 Jun | B + C | Introduction to LLMs, Prompt Engg, RAG | [PDF](#) | — |
-| T10 | Tue, 2 Jun | B | Tutorial: RAG Implementation | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
+| T11 | Tue, 2 Jun | B | Tutorial: RAG Implementation | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
 | L13 | Wed, 3 Jun | A + B | Introduction to Agentic AI: Foundations, LLM-RAGs, VectorDataBase, Tool Use | [PDF](#) | — |
-| T11 | Wed, 3 Jun | D | Tutorial: Build an AI Engineering Assistant | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
+| T12 | Wed, 3 Jun | D | Tutorial: Build an AI Engineering Assistant | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
 | — | Fri, 5 Jun | A + B | Mini-project presentations | — | — |
 | — | Fri, 5 Jun | C | MCQ-based written assessment | — | — |
 | — | Fri, 5 Jun | D | Capstone showcase and certificate award | — | — |
