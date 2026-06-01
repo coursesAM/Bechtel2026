@@ -96,7 +96,7 @@
 | L10 | Mon, 1 Jun | C | Computer Vision: Object Detection Architecture | [PDF](#) | — |
 | T10 | Mon, 1 Jun | D | Tutorial: Object Detection on Construction Site Images | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
 | L11 | Tue, 2 Jun | A | Transformers Recap | [PDF](#) | — |
-| L12 | Tue, 2 Jun | B + C | Introduction to LLMs, Prompt Engg, RAG | [PDF](#) | — |
+| L12 | Tue, 2 Jun | B + C | Introduction to LLMs, Prompt Engg, RAG | [PDF](#) | [Teams link](https://teams.microsoft.com/meet/45349230740084?p=IS1wyELusHbj4jO6hQ) |
 | T11 | Tue, 2 Jun | B | Tutorial: RAG Implementation | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
 | L13 | Wed, 3 Jun | A + B | Introduction to Agentic AI: Foundations, LLM-RAGs, VectorDataBase, Tool Use | [PDF](#) | — |
 | T12 | Wed, 3 Jun | D | Tutorial: Build an AI Engineering Assistant | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
