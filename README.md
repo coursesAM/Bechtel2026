@@ -94,7 +94,7 @@
 | L9 | Mon, 1 Jun | A | CNNs: Architecture and Image Applications | [PDF](#) | — |
 | T9 | Mon, 1 Jun | B | Tutorial: Image Classification on the PPE Dataset | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
 | L10 | Mon, 1 Jun | C | Computer Vision: Object Detection Architecture | [CV1_PDF](Lectures/L12_CV1.pdf) <br> [CV2_PDF](Lectures/L11_CV2.pdf) | — |
-| T10 | Mon, 1 Jun | D | Tutorial: Object Detection on Construction Site Images | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([#](https://colab.research.google.com/drive/1EQZ6r5FOjEZI_4CO0e_QDoTEqh7AO2XW?usp=sharing)) |
+| T10 | Mon, 1 Jun | D | Tutorial: Object Detection on Construction Site Images | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/drive/1EQZ6r5FOjEZI_4CO0e_QDoTEqh7AO2XW?usp=sharing)) |
 | L11 | Tue, 2 Jun | A | Transformers Recap | [PDF](#) | — |
 | L12 | Tue, 2 Jun | B + C | Introduction to LLMs, Prompt Engg, RAG | [PDF](#) | [Teams link](https://teams.microsoft.com/meet/45349230740084?p=IS1wyELusHbj4jO6hQ) |
 | T11 | Tue, 2 Jun | B | Tutorial: RAG Implementation | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
