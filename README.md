@@ -97,9 +97,10 @@
 | T10 | Mon, 1 Jun | D | Tutorial: Object Detection | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EQZ6r5FOjEZI_4CO0e_QDoTEqh7AO2XW?usp=sharing) <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1N9yLHy0OCu9rG2tDWFgZHQ6YVL7aVZnu?usp=sharing) <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10D5Sg_Ogr5-hBIQIL1E-MLC_wA_7i7De?usp=sharing)|
 | L11 | Tue, 2 Jun | A | LLM Transformers Recap | [PDF](Lectures/L13_Transformer.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Pc_jGJ1Csvy_KgjkURCTbzYS8hWuVoW0?usp=sharing) |
 | L12 | Tue, 2 Jun | B + C | More on LLMs, Prompt Engg, RAG | [PDF](#) | [Teams link](https://teams.microsoft.com/meet/45349230740084?p=IS1wyELusHbj4jO6hQ) |
-| T11 | Tue, 2 Jun | B | Tutorial: RAG Implementation | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
-| L13 | Wed, 3 Jun | A + B | Introduction to Agentic AI: Foundations, LLM-RAGs, Tool Use | [PDF](#) | — |
-| T12 | Wed, 3 Jun | D | Tutorial: Build an AI Engineering Assistant | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
+| T11 | Tue, 2 Jun | D | Tutorial: RAG Implementation | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
+| L13 | Wed, 3 Jun | A | Introduction to Agentic AI: Foundations, LLM-RAGs, Tool Use | [PDF](#) | — |
+| T12 | Wed, 3 Jun | B | Tutorial: Build an AI Agent with Claude Code | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
+| T13 | Wed, 3 Jun | C | Tutorial: Build an AI Agent using LangChain | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
 | — | Fri, 5 Jun | A + B | Mini-project presentations | — | — |
 | — | Fri, 5 Jun | C | MCQ-based written assessment | — | — |
 | — | Fri, 5 Jun | D | Capstone showcase and certificate award | — | — |
