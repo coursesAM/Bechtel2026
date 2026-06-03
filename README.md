@@ -100,7 +100,7 @@
 | T11 | Tue, 2 Jun | D | Tutorial: RAG Implementation | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
 | L13 | Wed, 3 Jun | A | Introduction to Agentic AI: Foundations, LLM-RAGs, Tool Use | [Agents_PDF](Lectures/L17_LLM_Agents.pdf) | — |
 | T12 | Wed, 3 Jun | B | Tutorial: Build an AI Engineering Assistant with Colab | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17xp5rwV1f0TOnAoIOk_ZqPPsKCPEpNPL?usp=sharing) |
-| T13 | Wed, 3 Jun | C | Tutorial: Build an AI Agent using LangChain | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
+| T13 | Wed, 3 Jun | C | Tutorial: Build a Data Science Agent using LangChain | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12K3ST_Tb338QmX3sJPSgx3MHXcCgvgTg?usp=sharing) |
 | — | Fri, 5 Jun | A | Tutorial: Build an AI Agent with Claude Code for PnID drawings| — | — |
 | — | Fri, 5 Jun | B + C | MCQ-based assessment and certificate award | — | — |
 
