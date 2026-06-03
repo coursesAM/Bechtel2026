@@ -101,9 +101,8 @@
 | L13 | Wed, 3 Jun | A | Introduction to Agentic AI: Foundations, LLM-RAGs, Tool Use | [PDF](#) | — |
 | T12 | Wed, 3 Jun | B | Tutorial: Build an AI Agent with Claude Code | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
 | T13 | Wed, 3 Jun | C | Tutorial: Build an AI Agent using LangChain | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
-| — | Fri, 5 Jun | A + B | Mini-project presentations | — | — |
-| — | Fri, 5 Jun | C | MCQ-based written assessment | — | — |
-| — | Fri, 5 Jun | D | Capstone showcase and certificate award | — | — |
+| — | Fri, 5 Jun | A | Tutorial: Build an AI Agent with Claude Code for PnID drawings| — | — |
+| — | Fri, 5 Jun | B + C | MCQ-based assessment and certificate award | — | — |
 
 
 ---
