@@ -6,9 +6,9 @@
 
 ## What is Claude Code?
 
-Claude Code is a command-line tool that lets you build real projects by having a conversation. You describe a problem, and it writes all the code, creates all the files, and delivers a working solution.
+Claude Code is a command-line tool (CLI) that lets you build real projects by having a conversation. You describe a problem, and it writes all the code, creates all the files, and delivers a working solution.
 
-You say: *"Organize my messy camera photos by date and event"*  
+You say: *"Organize my camera photos by date and event"*  
 You get: A complete system that renames files, creates folders, and builds a browsing webpage.
 
 No programming languages. No technical jargon. No memorizing commands.
@@ -237,10 +237,108 @@ As you build, you'll naturally start seeing patterns in how Claude thinks throug
 
 ---
 
+## Using Claude Code with DeepSeek v4 (Cost-Saving Alternative)
+ 
+If you want to reduce API costs, you can point Claude Code at DeepSeek's API instead of Anthropic's. DeepSeek offers compatible endpoints that Claude Code can talk to with a small configuration change.
+ 
+### Step 1: Get a DeepSeek API Key
+ 
+Sign up at [platform.deepseek.com](https://platform.deepseek.com) and generate an API key from your dashboard. It will look like `sk-xxxxxxxxxxxxxxxx`. Keep it somewhere safe.
+ 
+### Step 2: Install Claude Code (Windows)
+ 
+For Windows users, a community-maintained installer bundles Node.js, Git, and Claude Code together:
+ 
+1. Visit the releases page: `https://github.com/Redster1/claude-code-windows-installer-withprerequisites/releases`
+2. Download `ClaudeCodeInstaller.exe`
+3. Right-click it and select **Run as administrator**
+> **Note:** If the installer gets stuck at the shortcut creation step, close it and continue to the verification step below anyway. The core installation usually completes fine.
+ 
+### Step 3: Fix Common Windows Issues
+ 
+**PowerShell execution policy error**
+ 
+If you see an error like `running scripts is disabled on this system`, open PowerShell as Administrator and run:
+ 
+```powershell
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
+ 
+**"claude" not recognised error**
+ 
+If PowerShell cannot find the `claude` command, run this in an Administrator PowerShell to add it to your PATH:
+ 
+```powershell
+$p = [System.Environment]::GetEnvironmentVariable("PATH","User")
+[System.Environment]::SetEnvironmentVariable("PATH","$p;C:\Users\$env:USERNAME\AppData\Roaming\npm","User")
+```
+ 
+Then open a fresh PowerShell window and verify with:
+ 
+```bash
+claude --version
+```
+ 
+If it still fails, restart your PC and try again.
+ 
+### Step 4: Set the DeepSeek Environment Variables
+ 
+Before starting Claude Code each session, run these in PowerShell to redirect traffic to DeepSeek's API. Replace `your-api-key-here` with your actual DeepSeek key:
+ 
+```powershell
+$env:ANTHROPIC_BASE_URL="https://api.deepseek.com/anthropic"
+$env:ANTHROPIC_AUTH_TOKEN="your-api-key-here"
+$env:ANTHROPIC_MODEL="deepseek-v4-pro"
+$env:ANTHROPIC_DEFAULT_OPUS_MODEL="deepseek-v4-pro"
+$env:ANTHROPIC_DEFAULT_SONNET_MODEL="deepseek-v4-pro"
+$env:ANTHROPIC_DEFAULT_HAIKU_MODEL="deepseek-v4-flash"
+$env:CLAUDE_CODE_SUBAGENT_MODEL="deepseek-v4-pro"
+$env:CLAUDE_CODE_EFFORT_LEVEL="max"
+```
+ 
+These variables only last for your current PowerShell session. See the tip below to make them permanent.
+ 
+> **Tip: Make the variables permanent.** Instead of pasting these every session, add them to your PowerShell profile. Run `notepad $PROFILE` and paste the block above (with your real key) into that file. Save and close. From now on every new PowerShell window will have DeepSeek configured automatically.
+ 
+### Step 5: Navigate to Your Project and Start
+ 
+Open your project folder in File Explorer, right-click inside it, and select **Open in Terminal**. Then run:
+ 
+```bash
+claude
+```
+ 
+You should see the Claude Code welcome screen. You are now running through DeepSeek's API.
+ 
+### Step 6: Final Check
+ 
+Send a test prompt to confirm everything is working, then ask Claude to install Python and any packages you need for your project:
+ 
+```
+Install Python and the packages needed to read and edit Word and Excel files.
+```
+ 
+Once that completes without errors, your environment is ready for subsequent projects.
+ 
+---
+ 
+### DeepSeek vs Anthropic API: Quick Comparison
+ 
+| | Anthropic (default) | DeepSeek v4 |
+|---|---|---|
+| Setup | Works out of the box | Requires env variable config |
+| Pricing | Per token, higher rates | Significantly cheaper |
+| Model quality | Claude Sonnet/Opus | DeepSeek v4 Pro |
+| Best for | Production, reliability | Cost-conscious experimentation |
+ 
+---
+ 
 ## Resources
-
+ 
 - [Claude Code Documentation](https://docs.claude.ai) — official docs and reference
 - [Anthropic Support](https://support.claude.ai) — billing, plans, and account questions
+- [DeepSeek Platform](https://platform.deepseek.com) — API keys and usage dashboard
+- [Windows Installer (community)](https://github.com/Redster1/claude-code-windows-installer-withprerequisites/releases) — one-click Windows setup
 
 ---
 
