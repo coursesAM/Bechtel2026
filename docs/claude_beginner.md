@@ -126,10 +126,11 @@ Pick the one that solves a real problem in your life.
 
 ### Project 1: Personal Website
 
-***
 ```bash
+cd Documents/my-projects
 mkdir portfolio-site
-cd portfolio-site 
+cd portfolio-site
+claude
 ```
 
 **Prompt to use:**
@@ -139,6 +140,14 @@ a short about me paragraph, my contact information, and 2-3 sample photos. Keep 
 professional but not boring. Make it work well on phones too. Ask me clarifying 
 questions until you are 90% confident about the task before you start.
 ```
+
+**What happens next:**
+
+Claude asks clarifying questions like "What's your profession?" and "What style do you prefer?" Answer naturally, be comfortable to say “I don't know” or “not sure”, don't overthink it.
+
+**When Claude shows you the result:**
+
+Open the HTML file in your browser. If you don't love something, just tell Claude: "Make the header bigger" or "Change the colors to something more blue" or "This feels too fancy, make it simpler."
 
 ---
 
