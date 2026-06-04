@@ -115,7 +115,8 @@ mkdir newname    # Create a new folder
 **Smart naming rules:**
 - Use lowercase: `my-project` not `My Project`
 - Use hyphens: `photo-organizer` not `photo organizer`
-- No spaces, no special characters like `@#$%`
+- No spaces: `My Cool Project` breaks commands
+- No special characters like `project@#$%` causes errors
 
 ---
 
@@ -125,8 +126,10 @@ Pick the one that solves a real problem in your life.
 
 ### Project 1: Personal Website
 
+***
 ```bash
-mkdir portfolio-site && cd portfolio-site && claude
+mkdir portfolio-site
+cd portfolio-site 
 ```
 
 **Prompt to use:**
@@ -136,8 +139,6 @@ a short about me paragraph, my contact information, and 2-3 sample photos. Keep 
 professional but not boring. Make it work well on phones too. Ask me clarifying 
 questions until you are 90% confident about the task before you start.
 ```
-
-Expected cost: ~$10
 
 ---
 
