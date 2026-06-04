@@ -36,8 +36,6 @@
 
 ## Week 1 — Foundations
 
-> Tue 19 May – Fri 22 May 2026 · Bechtel GGN Office, Gurugram
-
 | # | Date | Topic | Slides | Notebook |
 |---|------|-------|:------:|:--------:|
 | L1 | Tue, 19 May | Intro to AI/ML: Landscape, Terminology, and Why It Matters for EPC | [PDF](Lectures/L1-AI_ML_Bechtel.pdf) | — |
@@ -52,8 +50,6 @@
 ---
 
 ## Week 2 — Deep Learning
-
-> Mon 25 May – Fri 29 May 2026 · Bechtel GGN Office, Gurugram
 
 | # | Date | Topic | Slides | Notebook |
 |---|------|-------|:------:|:--------:|
@@ -70,22 +66,6 @@
 ---
 
 ## Week 3 — Advanced Applications and Projects
-
-> Mon 1 Jun – Fri 5 Jun 2026 · Room LH212, Lecture Hall Complex, IIT Delhi
-> No class on Thu 4 Jun.
-
-**Daily schedule:**
-
-| Slot | Time |
-|------|------|
-| Light breakfast | 09:15 – 09:30 |
-| Block A | 09:30 – 11:00 |
-| Tea break | 11:00 – 11:15 |
-| Block B | 11:15 – 12:45 |
-| Lunch | 12:45 – 14:00 |
-| Block C | 14:00 – 15:30 |
-| Tea break | 15:30 – 15:45 |
-| Block D | 15:45 – 17:15 |
 
 **Content:**
 
