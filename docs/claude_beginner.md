@@ -154,7 +154,10 @@ Open the HTML file in your browser. If you don't love something, just tell Claud
 ### Project 2: Expense Tracker
 
 ```bash
-mkdir expense-tracker && cd expense-tracker && claude
+cd Documents/my-projects
+mkdir expense-tracker
+cd expense-tracker
+claude
 ```
 
 **Prompt to use:**
@@ -163,13 +166,23 @@ I have bank statements in this folder. Create something where I can see spending
 month, day, and categories like food, transport, entertainment. Include a weekly 
 summary of patterns. Anything you are not sure of midway, just ask me.
 ```
+**What Claude builds:**
+
+Usually a simple web page where it has processed your existing data, categorized expenses automatically, and created charts showing spending patterns you never noticed.
+
+**How to improve it:**
+
+It's simple enough that you'll definitely get something working, but useful enough to actually solve a problem. After it is working, try: "Can you analyze my spending patterns and suggest where I could be more mindful?" or "Give me your honest review on my spending."
 
 ---
 
 ### Project 3: Purchase Decision Tool
 
 ```bash
-mkdir car-purchase && cd car-purchase && claude
+cd Documents/my-projects
+mkdir car-purchase
+cd car-purchase
+claude
 ```
 
 **Prompt to use:**
@@ -179,6 +192,13 @@ is [your area]. Help me research the details, compare advantages and disadvantag
 and create a decision framework based on my budget and preferences.
 ```
 
+**What happens:**
+Claude creates a comprehensive research tool that pulls together reliability ratings, pricing data, dealer reviews, and financing options. It builds comparison charts and helps you identify the best deals in your
+area. 
+
+**The Result:**
+What would take days of scattered research across multiple websites becomes an organized, actionable analysis.
+
 Works for any big purchase: car, laptop, apartment.
 
 ---
@@ -186,7 +206,10 @@ Works for any big purchase: car, laptop, apartment.
 ### Project 4: Data Dashboard
 
 ```bash
-mkdir data-dashboard && cd data-dashboard && claude
+cd Documents/my-projects
+mkdir data-dashboard
+cd data-dashboard
+claude
 ```
 
 **Prompt to use:**
@@ -197,8 +220,9 @@ that shows: the total and average of [main column], a bar chart breaking it down
 and JavaScript — no frameworks. The entire output should be a single file I can open 
 directly in my browser.
 ```
+If you don’t have a dataset handy, create a test file first:
 
-Expected cost: $5-15 depending on dataset size.
+*Create a sample CSV file called expenses.csv with 20 rows of fictional monthly expenses — include columns for date, category (food/transport/entertainment), and amount. Then build the dashboard from it*
 
 ---
 
@@ -211,19 +235,20 @@ Expected cost: $5-15 depending on dataset size.
 | Minutes 16-25 | Have the conversation with Claude, ask for changes you want |
 | Minutes 26-30 | Test your result, make one small improvement |
 
-**Important:** Do not try to build all four projects today. Pick one, make it work, and feel proud. The goal is proving to yourself that you can build useful things without knowing how to code.
+**Important:** Do not try to build all four projects in one day. Pick one, make it work, and feel proud. The goal is proving to yourself that you can build useful things without knowing how to code.
 
 ---
 
 ## Tips That Actually Matter
 
-**Be specific.** Instead of "make a website," say "make a website for my dog walking business with services, pricing, and a contact form."
+**Be specific.** Instead of "make a website," say "make a website for my import/export business with services, pricing, and a contact form."
 
-**Iterate without hesitation.** If the result doesn't feel right, say so. "This looks like it was built in 2005 — completely redesign it." Your opinion matters more than Claude's first attempt.
+**Ask questions without hesitation.** If the result doesn't feel right, say so. "This looks like it was built in 2005 — completely redesign it." Claude genuinely learns your preferences through questions.
 
 **Use CLAUDE.md.** Create a file called `CLAUDE.md` in your project folder with a few lines about what you're building. Claude reads it automatically every session, so it remembers your context.
 
-**Ask freely.** "What does this section do?" and "How would I change this text?" are completely valid questions. Claude learns your preferences through conversation.
+**It's okay not to understand everything.** Focus on results first, understanding second. Claude will explain
+technical concepts when you ask, but you don't need to understand every line of code to successfully use what it creates
 
 ---
 
