@@ -67,10 +67,9 @@
 
 ## Week 3 — Advanced Applications and Projects
 
-**Content:**
 
 | # | Date | Block | Topic | Slides | Notebook |
-|---|------|-------|-------|:------:|:--------:|
+|---|--------|-------|-------|:------:|:--------:|
 | L9 | Mon, 1 Jun | A | CNNs: Architecture and Image Applications | [PDF](#) | — |
 | T9 | Mon, 1 Jun | B | Tutorial: Image Classification on the PPE Dataset | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
 | L10 | Mon, 1 Jun | C | Computer Vision: Object Detection Architecture | [CV1_PDF](Lectures/L12_CV1.pdf) <br> [CV2_PDF](Lectures/L11_CV2.pdf) | — |
