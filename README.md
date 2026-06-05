@@ -85,7 +85,7 @@
 
 
 ---
-
+[Assessment Link](https://forms.office.com/r/vrVJixX3Sv?origin=lprLink131289)
 
 ## How to Use the Colab Notebooks
 
