@@ -80,7 +80,7 @@
 | L13 | Wed, 3 Jun | A | Introduction to Agentic AI: Foundations, LLM-RAGs, Tool Use | [Agents_PDF](Lectures/L17_LLM_agents.pdf) | [Video](https://csciitd-my.sharepoint.com/:v:/g/personal/rajdipn_iitd_ac_in/IQAcO_JFEGzXRqnTBxmeyxrnARyUmdutHfoCKn9h83OIe-w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ozniX8) |
 | T12 | Wed, 3 Jun | B | Tutorial: Build an AI Engineering Assistant with Colab | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17xp5rwV1f0TOnAoIOk_ZqPPsKCPEpNPL?usp=sharing) |
 | T13 | Wed, 3 Jun | C | Tutorial: Build a Data Science Agent using LangChain | [LangChain_PDF](Lectures/LangChain.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1v1qTqp-Sal39qyD6ZLSa2kw5jS86Zcgx?usp=sharing) |
-| — | Fri, 5 Jun | A | Use Claude code <br> Some AI concepts (2026)| [Claude Code](docs/claude_beginner.md) <br> [AI concepts](docs/AI_concepts.md) | — |
+| — | Fri, 5 Jun | A | Use Claude code <br> Some AI concepts (2026)| [Claude Code](docs/claude_beginner.md) <br> [Claude for Bechtel](docs/Claude4Bechtel.md) <br> [AI concepts](docs/AI_concepts.md) | — |
 | — | Fri, 5 Jun | B | Tutorial: Build an AI Agent with Claude Code for PnID drawings|  | — |
 | — | Fri, 5 Jun | C | MCQ-based assessment and certificate award | — | — |
 
