@@ -32,8 +32,6 @@ Guardrails  →  stopping the model from doing something harmful or expensive
 
 ### 1. Tokenization
 
-**The question it answers:** Why does the model seem to "cut off" or misread unusual words?
-
 AI does not read text the way you do. It breaks input into small pieces called **tokens**. A token can be a full word, a fragment of a word, punctuation, or a space.
 
 This matters because:
@@ -41,19 +39,17 @@ This matters because:
 - Long documents consume more of the model's available memory
 - Rare words or technical terms may be split into many tokens, which can hurt accuracy
 
-**What to do with this:** Before sending a long document to a model, clean and trim it. Ask for only the section that is relevant. Do not paste 90 pages when you need 3.
+**What to do with this:** Before sending a long document to a model, clean and trim it. Ask it to read only the relevant section. Do not paste 90 pages when you need 3.
 
 ---
 
 ### 2. Embeddings
 
-**The question it answers:** Why does AI search find the right document even when I used different words?
-
 An embedding is a list of numbers that represents the *meaning* of a word, sentence, or document. Words and phrases that mean similar things end up as similar numbers, even if the exact words differ.
 
 This is why searching *"payment hold"* can surface documents about *"refund delays"* — the meanings are close, so the numbers are close.
 
-**What to do with this:** Give your documents clear, descriptive titles before indexing them. A file named `notes-final-v3.pdf` is harder for the system to use than `Refund Policy - Canada Customers - 2026.pdf`.
+**What to do with this:** Give your documents clear, descriptive titles before indexing them. A file named `notes-final-v3.pdf` is harder for the system to use than `Refund Policy - Customers - 2026.pdf`.
 
 ---
 
@@ -71,7 +67,7 @@ Attention is a mechanism that lets the model look at surrounding words to unders
 
 **The question it answers:** Why do GPT, Claude, Gemini, Llama, and Mistral all feel similar at a basic level?
 
-Transformers are the underlying architecture that most modern language models share. They use attention (see above) to process language far more efficiently than earlier systems like recurrent networks.
+Transformers are the underlying architecture that most modern language models share. They use attention (see above) to process language far more efficiently than earlier systems like recurrent neural networks.
 
 **What to do with this:** Stop chasing model names. The architecture is similar across providers. Learn the system around the model — prompting, context, retrieval, and evaluation — because that is where most of the practical value lives.
 
