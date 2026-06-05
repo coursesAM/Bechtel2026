@@ -350,11 +350,11 @@ Build evals before deploying any AI system to real users.
 
 ---
 
-### 24. Guardrails
+### 24. Guardrails / Hooks
 
 **The question it answers:** How do I stop the model from doing something harmful, expensive, or embarrassing?
 
-Guardrails are rules, filters, and checks that constrain what a model can say or do. They can be applied at the prompt level (explicit instructions), the output level (filtering or classifying responses before they are returned), or the tool level (restricting which actions an agent is allowed to take).
+Guardrails (also called hooks) are rules, filters, and checks that constrain what a model can say or do. They can be applied at the prompt level (explicit instructions), the output level (filtering or classifying responses before they are returned), or the tool level (restricting which actions an agent is allowed to take).
 
 Guardrails are especially important for:
 - Systems that interact with customers or the public
